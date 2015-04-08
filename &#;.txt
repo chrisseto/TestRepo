@@ -1,0 +1,24 @@
+#
+# ~/.bashrc
+#
+
+#Pacman Aliases
+alias pacin='sudo pacman -S'
+alias pacup='sudo pacman -Syu'
+alias pacinaur='sudo pacaur -S'
+alias pacsearch='sudo pacman -Ss'
+
+#Other Aliases
+alias net='wicd-curses'
+alias loadenv1=' source ~/virtenv/env1/bin/activate'
+
+export LANG=en_US.UTF-8
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+PS1='[\u@\h \W]\$ '
+complete -cf sudo
+
+#Needs more cow bell
