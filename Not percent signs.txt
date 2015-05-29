@@ -22,3 +22,4 @@ PS1='[\u@\h \W]\$ '
 complete -cf sudo
 
 #Needs more cow bell
+#Needs more revisions
