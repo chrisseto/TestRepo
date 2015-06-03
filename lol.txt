@@ -22,3 +22,5 @@ PS1='[\u@\h \W]\$ '
 complete -cf sudo
 
 #Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell
+
+asdflkjsadfl;kjasdf;lkjsdaf;lasjdf;laksdjf
