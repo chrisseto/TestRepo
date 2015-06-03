@@ -21,6 +21,9 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 complete -cf sudo
 
-#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell#Needs less cow bell
-
-asdflkjsadfl;kjasdf;lkjsdaf;lasjdf;laksdjf
+#Needs less cow bell
+#Needs less cow bell
+#Needs less cow bell
+#Needs less cow bell
+#Needs less cow bell
+#Needs less cow bell
