@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <?php
 global $wpdb;
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
