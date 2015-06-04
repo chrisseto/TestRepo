@@ -1,13 +1,4 @@
 
-    opacity: 0;
-    -webkit-transform: scale3d(.3, .3, .3);
-            transform: scale3d(.3, .3, .3);
-  }
-
-  100% {
-    opacity: 0;
-  }
-}
 
 @keyframes zoomOut {
   0% {
