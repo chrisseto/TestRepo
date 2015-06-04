@@ -23,4 +23,3 @@ complete -cf sudo
 
 #Needs more cow bell
 #Needs more revisions
-#Needs more work.
