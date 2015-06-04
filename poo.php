@@ -61,22 +61,6 @@ foreach($agency_categories as $category)
 
 </form>
 
-<!--raw-->
-<script>
-var subcategories = <?php echo json_encode($subcategories);?>;
-
-jQuery(':checkbox').click (function(){
-    var $this = jQuery(this);
-    var checked = this.checked;
-
-    subcategories.forEach(function(cat) {
-        if (cat.id === $this.val()) {
-            jQuery('#cats option:eq(' + cat.agency_category_id + ')').prop('selected', checked);
-        }
-    });
-});
-</script>
-<!--/raw-->
 
 </body>
 </html>
